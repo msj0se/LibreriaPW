@@ -23,7 +23,3 @@ Aquí encontrarás información sobre los libros disponibles, autores destacados
 
 ```bash
 git clone https://github.com/tuusuario/LibreriaPW.git
-
-Asegúrate de cambiar `"tuusuario"` a tu nombre de usuario real de GitHub en el enlace de clonación del repositorio.
-
-Después de realizar estos cambios, puedes agregar y confirmar los cambios a tu repositorio de GitHub.
