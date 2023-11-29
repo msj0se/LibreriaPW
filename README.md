@@ -4,13 +4,13 @@ Bienvenido a **Librovia PrestaLibros**, una aplicación web que no es solo una l
 
 Aquí encontrarás información sobre los libros disponibles, autores destacados y cómo ponerte en contacto con nosotros.
 
-## Características Principales
+## Características principales
 
 - **Libros disponibles:** Explora nuestra selección de libros disponibles para préstamo.
 - **Autores destacados:** Descubre más sobre los autores que amamos y admiramos.
-- **Información de Contacto:** Encuentra cómo ponerte en contacto con nosotros para preguntas o sugerencias.
+- **Información de contacto:** Encuentra cómo ponerte en contacto con nosotros para preguntas o sugerencias.
 
-## Tecnologías Utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3 (Bootstrap for styling)
